@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=PHP>&logoColor=white&color=2bbc8a)
+
+
 <!--
 **vdvcoder/vdvcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
