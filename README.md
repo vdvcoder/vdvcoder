@@ -1,6 +1,23 @@
-### Hi there 👋
+### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://img.shields.io/badge/Laravel-Laravel-informational?style=flat&logo=PHP>&logoColor=white&color=2bbc8a)
+
+I'm Olivier and I'm a Laravel developer and bug bounty enthousiast. 
+I'm from Belgium, living in West-Flanders and working at 🐂 Bulldots.
+  
+Always in for a chat. 
+
+📫 How to reach me: @vdvcoder , info@oliviervandevelde.be
+
+### Things i love to work with:
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Livewire-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-AlpineJs-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PHPStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Device-Macbook_Air_M1-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+
+
+
 
 
 <!--
