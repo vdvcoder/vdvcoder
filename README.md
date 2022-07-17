@@ -1,10 +1,11 @@
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I'm Olivier and I'm a Laravel developer and bug bounty enthousiast. 
-I'm from Belgium, living in West-Flanders and working at 🐂 Bulldots.
+I'm Olivier a Laravel developer and bug bounty enthousiast. 
+
+Living in Houthulst, West-Flanders, Belgium. and working at 🐂 Bullet Point bv.
   
-Always in for a chat. 
+Always in for a chat! Or some ☕️
 
 📫 How to reach me: @vdvcoder , info@oliviervandevelde.be
 
