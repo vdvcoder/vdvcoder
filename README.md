@@ -1,7 +1,7 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-Hey, I'm Olivier, a Laravel developer and bug bounty enthusiast. 
+I'm Olivier, a Laravel developer and bug bounty enthusiast. 
 
 I love using Laravel for its efficiency and have a knack for finding vulnerabilities in web apps. Looking to connect with fellow developers and contribute to open source projects on GitHub. Check out my profile and let's connect!
   
