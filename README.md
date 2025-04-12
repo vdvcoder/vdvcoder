@@ -1,13 +1,14 @@
 ### Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-I'm Olivier, a Laravel developer and bug bounty enthusiast. 
+Hi, I’m Olivier — Laravel developer & bug bounty enthusiast.
 
-I love using Laravel for its efficiency and have a knack for finding vulnerabilities in web apps. Looking to connect with fellow developers and contribute to open source projects on GitHub. Check out my profile and let's connect!
+⚙️ I love building efficient web apps with Laravel.
+🤝 Always up for collaborating with fellow devs and contributing to open source.
   
 Always in for a chat! Or some ☕️
 
-📫 How to reach me: @vdvcoder , info@oliviervandevelde.be
+📫 How to reach me: @vdvcoder , oliviervandevelde[@]hotmail.com
 
 ### Things i love to work with:
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
@@ -15,7 +16,8 @@ Always in for a chat! Or some ☕️
 ![](https://img.shields.io/badge/Code-Livewire-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-AlpineJs-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PHPStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Device-Macbook_Air_M1-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Device-Macbook-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65d5e5b67703252e6f678f5b?variant=dark)](https://roadmap.sh)
 
