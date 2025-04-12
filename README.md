@@ -19,7 +19,7 @@ Always in for a chat! Or some ☕️
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=phpstorm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Device-Macbook-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65d5e5b67703252e6f678f5b?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/67fa5687af6849cc4514ad10?variant=dark)](https://roadmap.sh)
 
 
 
